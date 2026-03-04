@@ -1,0 +1,7 @@
+# Livros
+## Análises Ecológicas no R
+https://analises-ecologicas.com
+
+## Data Science no R
+https://r4ds.hadley.nz      (en)
+https://pt.r4ds.hadley.nz   (pt)
