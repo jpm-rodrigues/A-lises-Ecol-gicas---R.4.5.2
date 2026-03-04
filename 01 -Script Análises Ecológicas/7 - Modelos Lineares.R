@@ -1,4 +1,5 @@
 # ========= Pacotes ====================================
+
 library(ecodados)
 library(car)
 library(ggpubr)
@@ -428,3 +429,4 @@ summary(no_spat_gls)$tTable
 #### Gráficos
 plot(ratio_variog, main = "Variograma como Modelo Ratio")
 plot(variog_mod1, main = "Variograma Modelo Normal")
+
